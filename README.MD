@@ -30,8 +30,8 @@ A lightweight, high-performance **RESTful API** built with **FastAPI** for manag
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/leave-management-api.git](https://github.com/your-username/leave-management-api.git)
-    cd leave-management-api
+    git clone https://github.com/Shibu-pal/leave-management.git
+    cd leave-management
     ```
 
 2.  **Install dependencies:**
