@@ -39,7 +39,7 @@ A lightweight, high-performance **RESTful API** built with **FastAPI** for manag
     ```bash
     pip install fastapi uvicorn portalocker pydantic
     ```
-or
+    or
     ```bash
     pip install -r requirements.txt
     ```
