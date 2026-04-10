@@ -1,0 +1,24 @@
+{
+    "employees": [
+        {
+            "firstName": "Arjun",
+            "lastName": "Sharma",
+            "email": "arjun@company.com",
+            "department": "Engineering",
+            "joinDate": "2026-01-15",
+            "employeeId": 1
+        }
+    ],
+    "leaves": [],
+    "balances": [
+        {
+            "employeeId": 1,
+            "year": 2026,
+            "Annual": 20,
+            "Sick": 10,
+            "Casual": 5
+        }
+    ],
+    "next_employee_id": 2,
+    "next_leave_id": 1
+}
